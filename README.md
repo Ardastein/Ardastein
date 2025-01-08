@@ -1,4 +1,4 @@
-<h2 align="left">Hi there! 👋<br><br>I'm Arda Durak, a passionate developer with a keen interest in creating innovative, efficient, and impactful solutions. 🚀 <br><br><br>🔧 Technologies & Tools I Use:<br>- Programming Languages: Python, JavaScript, SQL<br>- Frameworks & Libraries: Django, React, Pandas, TensorFlow<br>- Tools & Platforms: Docker, Git, AWS<br>- Databases: PostgreSQL, MongoDB, MySQL<br><br>🌱 Current Focus:<br>- AI-Powered Web Applications: Building systems to enhance productivity and accessibility.<br>- Data Science Projects: Extracting insights and patterns from complex datasets.<br><br>📫 Connect with Me<br><br>Let's collaborate and build the future together! 🌍</h2>
+<h2 align="left">Hi there! 👋<br><br>I'm Arda Durak, a passionate developer with a keen interest in creating innovative, efficient, and impactful solutions. 🚀 <br><br><br>
 
 ###
 
